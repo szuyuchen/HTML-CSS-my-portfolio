@@ -24,4 +24,4 @@ https://szuyuchen.github.io/HTML-CSS-my-portfolio/
 
 - dummyimage: https://dummyimage.com/
 
-- Circle crop: https://crop-circle.imageonline.co/
+- circle crop: https://crop-circle.imageonline.co/
