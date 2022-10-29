@@ -10,6 +10,8 @@
 
 - 10/28: header and Nav area
 
+- 10/29: about area
+
 ### Page link:
 
 https://szuyuchen.github.io/HTML-CSS-my-portfolio/
