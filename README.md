@@ -27,3 +27,5 @@ https://szuyuchen.github.io/HTML-CSS-my-portfolio/
 - dummyimage: https://dummyimage.com/
 
 - circle crop: https://crop-circle.imageonline.co/
+
+- Google Fonts: https://fonts.google.com/
