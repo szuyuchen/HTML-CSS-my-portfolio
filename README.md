@@ -14,6 +14,8 @@
 
 - 10/30: skills area
 
+- 10/31: works area
+
 ### Page link:
 
 https://szuyuchen.github.io/HTML-CSS-my-portfolio/
