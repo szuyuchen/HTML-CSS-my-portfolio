@@ -135,3 +135,22 @@ header {
   width: 80%;
   margin: 0 auto;
 }
+
+.work-wrapper p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.work-contents img {
+  width: 45%;
+  margin: 2% 2%;
+  border: 1px solid #2e2e2e;
+}
+
+.work-contents img:hover {
+  opacity: 0.5;
+}
+
+.work-contents {
+  text-align: center;
+}
