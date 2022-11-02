@@ -6,18 +6,6 @@
 
 <img src="" width=400>
 
-#### Memo: 
-
-- 10/28: header and nav area
-
-- 10/29: about area
-
-- 10/30: skills area
-
-- 10/31: works area
-
-- 11/01: contact and footer area
-
 ### Page link:
 
 https://szuyuchen.github.io/HTML-CSS-my-portfolio/
@@ -35,3 +23,17 @@ https://szuyuchen.github.io/HTML-CSS-my-portfolio/
 - circle crop: https://crop-circle.imageonline.co/
 
 - Google Fonts: https://fonts.google.com/
+
+#### Memo: 
+
+- 10/28: header and nav area
+
+- 10/29: about area
+
+- 10/30: skills area
+
+- 10/31: works area
+
+- 11/01: contact and footer area
+
+- 11/02: RWD setting
