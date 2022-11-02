@@ -24,7 +24,7 @@ https://szuyuchen.github.io/HTML-CSS-my-portfolio/
 
 - Google Fonts: https://fonts.google.com/
 
-#### Memo: 
+### Memo: 
 
 - 10/28: header and nav area
 
