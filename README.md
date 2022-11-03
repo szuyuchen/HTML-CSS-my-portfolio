@@ -37,3 +37,5 @@ https://szuyuchen.github.io/HTML-CSS-my-portfolio/
 - 11/01: contact and footer area
 
 - 11/02: RWD setting
+
+- 11/03: Language switch icon and chinese content page
