@@ -175,6 +175,12 @@ header {
   font-size: 20px;
 }
 
+.email-info {
+  text-align: center;
+  font-size: 36px;
+  text-decoration: underline;
+}
+
 .contact-menu {
   text-align: center;
   padding: 50px 50px;
