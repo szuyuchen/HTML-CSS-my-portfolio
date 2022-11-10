@@ -41,3 +41,5 @@ https://szuyuchen.github.io/HTML-CSS-my-portfolio/
 - 11/03: Language switch icon and chinese content page
 
 - 11/04: add 2 hero pics and modify contact content  
+
+- 11/10: add about, skills, projects text
